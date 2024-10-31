@@ -1,18 +1,18 @@
 # Lab 5
 
 ## Q1
-![p1](q1.1.png)
-![p1](q1.2.png)
+![q1_1](q1_1.png)
+![q1_2](q1_2.png)
 
 ## Q2
-![p2](q2.png)
+![q2](q2.png)
 
 ## Q3
-![p3](q3.png)
+![q3](q3.png)
 
 ## Q4
-![p4](q4.png)
+![q4](q4.png)
 
 ## Q5 (Challenge)
-![p5](chq1.1.png)
-![p5](chq1.2.png)
+![q5_1](chq1.1.png)
+![q5_2](chq1.2.png)
