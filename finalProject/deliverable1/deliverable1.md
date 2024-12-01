@@ -20,38 +20,38 @@ On the software side, a web server includes several parts that control how web u
 Some different web server applications are....
 
 Apache
-!(apache logo)[apache_server.jpg]
+![apache logo](apache_server.jpg)
 
 Nginx
-!(Nginx logo)[nginx-server-804x270.png]
+![Nginx logo](nginx-server-804x270.png)
 
 Caddy
-!(Caddy logo)[caddy-server-637x270.png]
+![Caddy logo](caddy-server-637x270.png)
 
 Lighttpd
-!(lighttpd)[lighthttpd-server-281x270.png]
+![lighttpd](lighthttpd-server-281x270.png)
 
 and OpenLiteSpeed.
-!(openlitespeed logo)[litespeed-server-840x210.png]
+![openlitespeed logo](litespeed-server-840x210.png)
 
 ## What is virtualization?
 Virtualization is a technology that creates virtual versions of physical computing resources, such as servers, storage, and networks.
 
 ## What is virtualbox?
-!(virtualbox logo)[vbox.jpg]
+![virtualbox logo](vbox.jpg)
 VirtualBox is a free, open-source virtualization tool that allows users to run multiple operating systems on a single device.
 
 ## What is a virtual machine?
 A virtual machine (VM) is a software-based computer that acts like a physical computer, but uses virtual resources instead of physical components.
 
 ## What is Ubuntu Server?
-!(ubuntu server logo)[servicos-ubuntu-server.jpg]
+![ubuntu server logo](servicos-ubuntu-server.jpg)
 Ubuntu Server is a part of the larger set of Ubuntu products and operating system developed by Canonical Ltd. Ubuntu server is a specific addition that differs a little bit from Ubuntu desktop, in order to facilitate installation on servers.
 
 ## What is a firewall?
-!(firewall image)[how-firewalls-work.png]
+![firewall image](how-firewalls-work.png)
 A firewall is a network security device that prevents unauthorized access to a network.
 
 ## What is SSH?
-!(ssh image)[ssh.png]
+![ssh image](ssh.png)
 SSH (Secure Shell or Secure Socket Shell) is a network protocol that gives users -- particularly systems administrators -- a secure way to access a computer over an unsecured network.
